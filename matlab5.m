@@ -31,3 +31,7 @@ function fx = funx(UR)
 %i0=1; a=1; E=1; R=1;
 global E R i0 a
 fx = i0*(exp(a*(E-UR))-1)-UR/R;
+
+%ielikt savu diodi (a,i0)
+%ielikt savu signālu no 3.ld Et vietā
+%pamainīt laiku atbilstoši savam signālam
