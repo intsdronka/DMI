@@ -1,5 +1,5 @@
 %% videjas vertibas aprekins
-t=0:0.1:6;
+t=0:0.01:6;
 N=length(t);
 
 %%
